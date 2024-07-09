@@ -1,0 +1,8 @@
+# folder
+.vscode/
+__pycache__/
+*data*/
+
+# file
+
+
